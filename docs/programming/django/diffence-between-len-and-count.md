@@ -1,9 +1,12 @@
 ---
 layout: minimal
-title: "QuerySet을 count()로 row를 세는 것과 len()으로 세는 것의 차이"
+title: QuerySet을 count()로 row를 세는 것과 len()으로 세는 것의 차이
 grand_parent: programming
 parent: django
 nav_order: 1
+slug: queryset을-count-로-row를-세는-것과-len-으로-세는-것의-차이
+keywords:
+    - queryset
 ---
 
 # QuerySet을 count()로 row를 세는 것과 len()으로 세는 것의 차이
