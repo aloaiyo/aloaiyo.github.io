@@ -4,6 +4,10 @@ title: Java Spring Boot 서버에 Newrelic (APM) 설치하기
 grand_parent: programming
 parent: spring_boot
 nav_order: 1
+keywords:
+    - runbook
+    - newrelic
+slug: java-spring-boot-서버에-newrelic-apm-설치하기
 ---
 
 # Java Spring Boot 서버에 Newrelic (APM) 설치하기
