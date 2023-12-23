@@ -11,7 +11,5 @@ aux_links:
 ga_tracking: G-X6HK71255Z
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
-google_site_verification: 
-
 plugins:
   - jekyll-sitemap
