@@ -5,6 +5,8 @@ grand_parent: programming
 parent: django
 nav_order: 1
 slug: queryset을-count-로-row를-세는-것과-len-으로-세는-것의-차이
+date: 2023-12-21 00:00:00
+lastmod: 2023-12-21 00:00:00
 keywords:
     - queryset
 ---
