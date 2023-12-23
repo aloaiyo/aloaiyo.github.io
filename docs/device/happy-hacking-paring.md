@@ -8,7 +8,7 @@ keywords:
     - happyhacking
     - 블루투스 페어링
 date: 2023-12-20 00:00:00
-lastmod: 2023-12-20 00:00:00
+last_modified_at: 2023-12-20 00:00:00
 ---
 
 # 해피해킹 블루투스 페어링 삭제 및 등록
